@@ -1,4 +1,4 @@
-
+vip PrivateVPN Plugin | simultaneous-connections + smart-DNS is the best PrivateVPN plugin, featuring simultaneous-connections and smart-DNS. Secure, fast, and optimized for
 
 
 
